@@ -1,2 +1,2 @@
-# math
-traceable formulas
+# Math
+## Traceable formulas
